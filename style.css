@@ -94,7 +94,7 @@ h1{
 .hd-btn:hover{
     outline: none !important;
    background:none !important;
-   color: #000 !important;
+   color:var(--clr) !important;
    transition:all ease-in-out .4s !important;
    border: 2px solid rgb(41, 8, 190) ;
 }
